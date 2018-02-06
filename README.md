@@ -1,9 +1,9 @@
 # Plan a Trip
 
 ### Team Members
-* Logan Harrison
+* Logan Harrison (Scrum Master)
+* Jeb Robertson (Product Owner)
 * Connor Rowland
-* Jeb Robertson
 * Brighton Fleetwood
 * Akshay Chavakula
 
