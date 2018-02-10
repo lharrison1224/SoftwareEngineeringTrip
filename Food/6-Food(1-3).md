@@ -31,7 +31,8 @@
 #### Dinner
 - Margaritaville
   - Location: Gloucester Ave, Montego Bay
-  - ~$25.00
+  - Est. Price (each): ~$25.00
   - Menu: attached
-
+  
+  
 Total price (days 1-3):     ~$75.00 each,     ~$375.00 total
