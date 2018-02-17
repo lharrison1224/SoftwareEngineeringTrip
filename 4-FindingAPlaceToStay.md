@@ -44,8 +44,7 @@ Each room sleeps 4 (2 double beds), 1 bathroom and terrace.
 ## Price Calculation
 * Need 2 rooms for 1 week ($135/per night/per room) = $1890 
 * Mandatory Fees: $50 deposit
-* Airport Shuttle: $30 for roundtrip
-* Total: $1970 
+* Total: $1940
 
 ## Link
 https://www.hotels.com/ho510470/?q-check-out=2018-02-17&FPQ=3&q-check-in=2018-02-10&WOE=6&WOD=6&q-room-0-children=0&pa=1&tab=description&q-room-1-children=0&JHR=7&q-room-0-adults=2&q-room-1-adults=3&YGF=0&MGT=7&ZSX=0&SYE=3 
