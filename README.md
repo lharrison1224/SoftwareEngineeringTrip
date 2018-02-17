@@ -17,7 +17,7 @@ Montego Bay, Jamaica
 $10,000
 
 ### Length of Stay
-1 week
+1 week (7/17/18 - 7/24/18)
 
 ### Purpose
 To get out of cruddy Missouri weather.
