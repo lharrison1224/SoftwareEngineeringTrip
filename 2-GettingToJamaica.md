@@ -1,11 +1,11 @@
 # Getting to Jamaica
 
-### Flight overview
+## Flight overview
 * Airline: American Airlines
 * Cost: $541 per person
 
-### Itenerary
-#### To Jamaica - July 17, 2018
+## Itenerary
+### To Jamaica - July 17, 2018
 **American 4559**
 * Depart: STL 6:50am
 * Arrive: PHL 9:57am
@@ -16,7 +16,7 @@
 * Depart: PHL 10:40am
 * Arrive: MBJ 1:35pm
 
-#### From Jamaica - July 24, 2018
+### From Jamaica - July 24, 2018
 **American 1501**
 * Depart: MBJ 4:36pm
 * Arrive: MIA 7:21pm
