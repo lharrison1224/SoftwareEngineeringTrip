@@ -37,5 +37,5 @@
 - $489 - Jaimaican Transportation
 - $875 - Food
 - $1320 - Activities
-## $7401.12
-# $2598.88 under budget
+# $7401.12
+## $2598.88 under budget
