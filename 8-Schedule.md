@@ -20,24 +20,24 @@
 | | | | |
 |Wake up/breakfast|July 19|Rose Hall de Luxe|09:00|
 |Ziplining|-|Jamaica zipline adventure tours (pickup from hotel)|10:00|
-|Lunch|-|Juici Patties|13:00|
-|Free time|-|Any|14:00|
+|Lunch|-|Juici Patties|13:30|
+|Free time|-|Any|14:30|
 |Dinner|-|Pier 1|18:00|
 | | | | |
-|Wake up/breakfast|July 20|Rose Hall de Luxe|09:00|
+|Wake up/breakfast|July 20|Rose Hall de Luxe|09:30|
 |Beach time|-|Dead End Beach|10:30|
-|Lunch|-|Optional|13:00|
-|British fort tour|-|Fort Montego|14:00|
-|Dinner|-|Margaritaville|18:00|
+|Lunch|-|Optional|12:00|
+|British fort tour|-|Fort Montego|13:30|
+|Dinner|-|Margaritaville|17:30|
 | | | | |
-|Wake up/breakfast|July 21|Rose Hall de Luxe|09:00|
-|Free Time|-|Any|10:00|
-|Lunch|-|Pelican Grill|13:00|
-|Haunted plantation tour|-|Rose Hall Plantation|14:00|
-|Dinner|-|Jerky's Bar and Grill|18:00|
+|Wake up/breakfast|July 21|Rose Hall de Luxe|10:00|
+|Free Time|-|Any|11:00|
+|Lunch|-|Pelican Grill|13:30|
+|Haunted plantation tour|-|Rose Hall Plantation|16:00|
+|Dinner|-|Jerky's Bar and Grill|19:00|
 | | | | |
-|Wake up/breakfast|July 22|Rose Hall de Luxe|09:00|
-|Beach Time|-|Doctor's Cove Beach|10:00|
+|Wake up/breakfast|July 22|Rose Hall de Luxe|09:30|
+|Beach Time|-|Doctor's Cove Beach|10:30|
 |Lunch|-|Peppa's Cool Spot|13:00|
 |Jamaica Film Tour|-|Falmouth, Montego Bay|14:00|
 |Dinner|-|The Grill|18:00|
