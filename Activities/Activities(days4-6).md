@@ -18,8 +18,8 @@ Cost: $20 per person $100 total
 
 ## Day 5
 ### Doctor's Cave Beach
-It's Jamaica. We are going to beaches. We're going back to this beach because of its popularity.
-Location: Gloucester Ave, Montego Bay, Jamaica.
+It's Jamaica. We are going to beaches. We're going back to this beach because of its popularity.  
+Location: Gloucester Ave, Montego Bay, Jamaica.  
 Time: 3 hours  
 Cost: free  
 
@@ -38,7 +38,7 @@ Cost: $70 booking, except a mininum of 6 people so total is $420
 ### Rocklands Bird Sanctuary
 A really cool bird sanctuary. A nice place to relax and enjoy nature.  
 Location: Roackslands Road Near Montego Bay
-Time: 2 hours
+Time: 2 hours  
 Cost: $50 per person $250 total
 
 ![bird](/Activities/bird.jpg)
@@ -54,7 +54,7 @@ Cost: free
 
 ## Total
 $250 + $420 + $100=
-$470
+$770
 
 Note all times include the drive time.
 

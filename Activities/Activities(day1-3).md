@@ -47,7 +47,8 @@ Cost: free
 
 ### Fort Montego
 Old British fort for which the town is named after and a market place. A cool place to visit and if anyone want to buy souvenirs this is a place to do so.  
-Cost: $20 for souvenirs per person, $100 total.  
+Cost: $20 for souvenirs per person, $100 total. 
+Time: 2 hours   
 
 ![The fort](/Activities/fort-montego.jpg)
 ***
